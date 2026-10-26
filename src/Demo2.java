@@ -32,3 +32,6 @@ class Student2 {
         System.out.println("Attendence marks by name " + name);
     }
 }
+
+
+//this ie a keyword declared object refered
