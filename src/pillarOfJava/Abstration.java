@@ -53,4 +53,14 @@ class ElectricCar extends car {
     }
 }
 // interfaces
- 
+//
+//interface class {
+//
+//    void start();
+//
+//     void accelerate();
+//
+//void brake();
+//
+//        }
+//

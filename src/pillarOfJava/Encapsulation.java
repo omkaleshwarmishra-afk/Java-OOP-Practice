@@ -6,7 +6,6 @@ public class Encapsulation {
 
         BankAccount ba  = new BankAccount();
 //        ba.balance = 10000.0;
-//
 //        System.out.println(ba.balance);
         ba.deposit(500);
         ba.withdraw(300);
