@@ -32,3 +32,5 @@ public class Demo2 {
 // assigment
 // method call
 // Arithmatic
+
+//  x.equals(y);
