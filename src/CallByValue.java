@@ -1,7 +1,7 @@
 
 //cal by value
 
-public class Demo4 {
+public class CallByValue {
 
     public static void main(String[] args){
 

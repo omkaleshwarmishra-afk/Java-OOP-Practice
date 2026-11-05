@@ -2,7 +2,7 @@
 
 // static keyword
 
-public class Demo5 {
+public class StaticKeyword {
 
     static class Student {
         String name;
