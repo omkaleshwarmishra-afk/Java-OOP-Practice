@@ -6,7 +6,7 @@ public class Demo5 {
       v.drive();
     }
 }
- // after java 8  --> Default methods , static
+ // after java 8  --> Default methods , static , private
 // List Interface --> methods
 
 interface Vehicle {
